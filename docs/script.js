@@ -1,30 +1,31 @@
 const quotes = {
   happy: [
-    "Happiness is not something ready made. It comes from your own actions.",
-    "The purpose of our lives is to be happy.",
-    "Happiness depends upon ourselves."
+    "«Երջանկությունը կաթիլ է լույսի, որ ծնվում է սրտիդ մեջ ու տարածվում աշխարհով մեկ»",
+    "«Ջերմ ժպիտը հոգու արևն է․ թող այն այսօր չմարի»",
+    "«Երբ շնորհակալ ես, նույնիսկ սովորական օրը դառնում է տոն»"
   ],
   sad: [
-    "Tears come from the heart and not from the brain.",
-    "Every human walks around with a certain kind of sadness.",
-    "Sadness flies away on the wings of time."
+    "«Տխրությունն անցողիկ մառախուղ է․ մաքուր հոգին վերջում միշտ գտնում է արևը»",
+    "«Արցունքն ազատություն է, որ սիրտն է շնորհում աչքերին»",
+    "«Տխուր գիշերվա ավարտին միշտ ծագում է նոր լուսաբաց»"
   ],
   inspired: [
-    "The best way to get started is to quit talking and begin doing.",
-    "Don’t watch the clock; do what it does. Keep going.",
-    "Success usually comes to those who are too busy to be looking for it."
+    "«Երթա՛ առաջ, քամին միշտ հռնդում է խիզախ ճանապարհորդի թիկունքին»",
+    "«Նպատակը լույս է, որ կուրացնում է կասկածներին»",
+    "«Մեծ խորհուրդները սկսվում են փոքր քայլից, բայց հաստատակամ»"
   ],
   angry: [
-    "For every minute you remain angry, you give up sixty seconds of peace of mind.",
-    "Speak when you are angry and you will make the best speech you will ever regret.",
-    "Anger doesn’t solve anything. It builds nothing, but it can destroy everything."
+    "«Զայրույթը կրակ է, որ առաջինը այրում է իր տան տերը»",
+    "«Մեկ խորը շունչը կարող է փրկել հազար ափսոսանք»",
+    "«Բառերը, որ արտասանվում են զայրացած, դառնում են քար, իսկ լռությունը՝ հանգչած հուր»"
   ],
   calm: [
-    "Nothing can bring you peace but yourself.",
-    "Peace begins with a smile.",
-    "The nearer a man comes to a calm mind, the closer he is to strength."
+    "«Խաղաղ հոգին ջրի հայելի է, որում ամբոխված երկինքը պարզ է»",
+    "«Լռության մեջ կարելի է լսել սրտի իսկական զարկերը»",
+    "«Հանգստությունը ուժի ամենահզոր ձևն է՝ անտես, բայց անխորտակելի»"
   ]
 };
+
 
 const emojis = {
   happy: "🙂",
